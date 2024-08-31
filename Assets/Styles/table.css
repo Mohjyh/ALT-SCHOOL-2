@@ -1,0 +1,23 @@
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: verdana;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  text-wrap: pretty;
+}
+th,
+td {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 6px;
+}
+thead,
+tbody {
+  background-color: azure;
+}
+thead {
+  text-align: center;
+}
+th {
+  text-align: justify;
+}
